@@ -2,9 +2,6 @@
 
 An AI-powered job application assistant. Paste or upload a resume against a job description and get a match score, skill gaps, tailoring suggestions, likely interview questions, and live feedback on your practice answers — all backed by Google Gemini.
 
-## 🌐 Live Demo
-https://career-copilot-murex-one.vercel.app/
-
 ## Features
 
 - **Resume ↔ JD Match** — upload your resume as PDF, DOCX, or plain text (or just paste it), paste a job description, and get:
