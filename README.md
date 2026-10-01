@@ -71,4 +71,4 @@ Alternatively, `npm run dev` runs just the Vite frontend, but the `/api` routes 
 ## License
 
 MIT — see [LICENSE](./LICENSE).
-"# career-copilot-" 
+
